@@ -12,4 +12,4 @@ Run the following command to start the application:
 
 ### `npm start`
 
-!["Final Screenshot"](https://github.com/akashmd7/insta-clone/blob/master/src/Images/Final Screenshot.png?raw=true)
+![plot](./src/Images/Final Screenshot.png?raw=true)
