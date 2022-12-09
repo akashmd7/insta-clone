@@ -6,7 +6,7 @@ export default function ProfileDetails() {
         <div>
             <div className="px-6 py-6 w-full mx-5 lg:mx-56">
                 <div className="flex flex-col md:flex-row">
-                    <div className="flex-initial h-36 px-2 py-2 lg:px-24 py-4 h-64 w-1/4">
+                    <div className="flex-initial h-32 px-2 py-2 lg:px-24 py-4 w-1/4">
                         <img src={ViratDP} alt="profile pic" className="rounded-full"/>
                     </div>
                     <div className="flex-initial">
