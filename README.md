@@ -12,4 +12,6 @@ Run the following command to start the application:
 
 ### `npm start`
 
+I've also attached the screenshot:
+
 ![Final Screenshot](https://user-images.githubusercontent.com/64031591/206690952-282c30dd-c81d-437e-bedd-7409c052fcb8.png)
