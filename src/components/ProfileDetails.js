@@ -63,7 +63,7 @@ export default function ProfileDetails() {
                         </div>
                     </div>
                 </div>
-                <div class="border-t border-gray-200 mt-10 w-full lg:w-2/3"></div>
+                <div className="border-t border-gray-200 mt-10 w-full lg:w-2/3"></div>
             </div>
         </div>
     );
